@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 刘德华
+古巨基
